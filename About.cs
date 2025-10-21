@@ -53,7 +53,7 @@ namespace QueryExpress
             this.textBox2.Size = new System.Drawing.Size(192, 61);
             this.textBox2.TabIndex = 1;
             this.textBox2.TabStop = false;
-            this.textBox2.Text = "Query Express\r\nVersion 4\r\nWritten by Endix Systems";
+            this.textBox2.Text = "Query Express\r\nVersion 4 BY Joseph Albahari";
             // 
             // button1
             // 
@@ -72,7 +72,7 @@ namespace QueryExpress
             this.linkLabel1.Size = new System.Drawing.Size(117, 13);
             this.linkLabel1.TabIndex = 4;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "https://www.endixcom";
+            this.linkLabel1.Text = "http://www.albahari.com";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // About
